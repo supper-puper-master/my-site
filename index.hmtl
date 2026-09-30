@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мой первый сайт</title>
+</head>
+
+<body>
+    <h1>Дядя Ярик!</h1>
+    <p>Я научился немного делать сайты </p>
+
+    <img src="image.jpg" alt="Моя картинка" width="400">
+
+</body>
+</html>
